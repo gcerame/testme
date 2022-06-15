@@ -11,5 +11,8 @@
   "license": "ISC",
   "bin": {
     "testme": "index.js"
+  },
+  "dependencies": {
+    "chalk": "^4.1.2"
   }
 }
